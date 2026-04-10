@@ -1,0 +1,5 @@
+tenure_bracket,total_customers,churn_rate
+0-6_Months,1470,53.3333
+6-12_Months,705,35.8865
+1-2_Years,1024,28.7109
+Over_Two_Years,3833,14.0360
