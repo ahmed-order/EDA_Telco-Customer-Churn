@@ -6,7 +6,7 @@ In this phase, I identified columns that required standardization. Specifically,
 ### Identifying Unique Values
 I used the following script to check the unique values in several service-related columns.
 
-**Script:** [Distinct_script.sql](./data_cleaning/Distinct_sql_script.sql)
+**Script :** [Distinct_script.sql](./data_cleaning/Distinct_sql_script.sql)
 
 **Table :** [Distinct_table](./data/data_cleaning_table/Distinct_values.csv)
 
@@ -27,7 +27,7 @@ I used the following query to make a new column of binary churn.
 
 **Script :** [Binary_Churn_script.sql](./data_cleaning/Binary_Churn_Script.sql)
 
-**Table :** : [Binary_Churn_table](./data/data_cleaning_table/Binary_Churn_Table.csv)
+**Table :**  [Binary_Churn_table](./data/data_cleaning_table/Binary_Churn_Table.csv)
 
 #### Data cleaning is done
 
