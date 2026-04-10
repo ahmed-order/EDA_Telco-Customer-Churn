@@ -57,8 +57,8 @@ I used the following query to find the average tenure and average monthly charge
 
 ### 04- Which contract type has the highest churn rate? (Month-to-month, 1-year, or 2-year?)
 
-**Query :** [avg_tenure_charges_script.sql](.eda_sql_querys/Contract_query.sql)
+**Query :** [Contact_script.sql](./eda_sql_querys/Contract_query.sql)
 
-**Table :** [avg_tenure_charges_table](./data/eda_tables/Contract_table.csv)
+**Table :** [Contract_table](./data/eda_tables/Contract_table.csv)
 As we can see month-to-month customers left the company most.
 
