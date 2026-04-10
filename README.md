@@ -14,4 +14,5 @@ The columns OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, Streami
 
 #### Standardizing to 'No'
 I used the following query to standardize 'No internet service' to 'No'.
-**Script:** [Distinct_sql_script.sql](./data_cleaning/Distinct_sql_script.sql)
+**Script:** [Conveting_sql_script.sql](./data_cleaning/Converting_sql_query.sql)
+
