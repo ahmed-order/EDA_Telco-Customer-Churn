@@ -69,8 +69,11 @@ As we can see month-to-month customers left the company most.
 **Table :** [Payment_mathod_table](./data/eda_tables/Payment_method_table.csv).
 As we can customer with electronic check left the company the most
 
-### 06- Are Senior Citizens more likely to churn than younger customers?
+### 06- Do customers with partners or dependents stay longer than those who are single?
 
-**Query :**
+**Query :** [Payment_method_query.sql](./eda_sql_querys/Partners_dependents_query.sql)
 
-**Table :**
+**Table :** [Payment_mathod_table](./data/eda_tables/Partners_dependents_table.csv).
+
+#### Observations :
+As we can see in the table that people with No Partner and No Dependents have the highest churn rate (34.23%) and People with Both a Partner and Dependents have the lowest churn rate (14.31%).
