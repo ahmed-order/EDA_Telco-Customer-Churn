@@ -1,0 +1,3 @@
+citizen_type,sum(binary_churn),"avg(binary_churn * 100)"
+Non-Senior,1393,23.6503
+Senior,476,41.6813
