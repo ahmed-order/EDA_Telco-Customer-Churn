@@ -50,7 +50,7 @@ Yes means the people that have left the company.As we can see the company lost 2
 
 ### 03 - What is the average tenure and average Monthly Charges for all customers?
 
-**Script :**
+**Script :** [avg_tenure_charges_script.sql](.eda_sql_querys/acg_tenure_charges_sql.sql)
 
-**Table :**
+**Table :** [avg_tenure_charges_table](./data/eda_tables/avg_tenure_charges_table.csv)
 
