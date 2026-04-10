@@ -41,3 +41,9 @@ I used the following query to calculate the total number of customers , sum of p
 **Table :**   [Overall_Churn_table](./data/eda_tables/Overall_Churn_table.csv)
 
 ### 02- How much total revenue have we lost to churned customers?
+I used the following query to find the sum of revenue we lost from customers that we lost to the company
+
+**Script :** [Revenue_lost_script.sql](./eda_sql_querys/Revenue_lost_sql.sql)
+
+**Table :**   [Revenue_lost_table](./data/eda_tables/Revenue_lost_table.csv)
+Yes means the people that have left the company.As we can see the company lost 2862927.
