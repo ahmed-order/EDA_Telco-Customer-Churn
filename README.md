@@ -81,3 +81,5 @@ As we can see in the table customer with electronic check left the company the m
 
 #### Observations :
 As we can see in the table that people with No Partner and No Dependents have the highest churn rate (34.23%) and People with Both a Partner and Dependents have the lowest churn rate (14.31%).
+
+### 07- Are Senior Citizens more likely to churn than younger customers?
