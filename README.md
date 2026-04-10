@@ -10,5 +10,8 @@ Its table [Distinct_table](./data_cleaning/Distinct_values.csv)
 
 
 #### Observations
-The columns OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, and StreamingMovies all contain "No internet service". For the next step of the analysis, I will standardize these to "No" to simplify the model.
+The columns OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, and StreamingMovies all contain "No internet service". For the next step of the analysis, I will standardize these to "No".
 
+#### Standardizing to 'No'
+I used the following query to standardize 'No internet service' to 'No'.
+**Script:** [Distinct_sql_script.sql](./data_cleaning/Distinct_sql_script.sql)
