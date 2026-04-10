@@ -115,7 +115,7 @@ I used the following query to see if customers without Tech Support or Online Se
 #### Observations :
 Providing Tech Support and Online Security acts like glue. When customers have these services, they are nearly 4 times less likely to leave than those who don't.Increasing Tech Support adoption could drastically reduce churn.
 
-### 09- What is the average tenure of a churned customer?
+### 010- What is the average tenure of a churned customer?
 I used to the following query to see the average tenure customer spent before leaving the company.I binned the tenure column so churn rate should be find easily.
 
 **Query :** [tenure_churn_query.sql](./eda_sql_querys/tenure_churn_query.sql)
@@ -125,7 +125,5 @@ I used to the following query to see the average tenure customer spent before le
 
 #### Observations : A massive 53.33% churn rate. Literally half of new customers leave within the first six months and only 14% over 2 years.
 
-
-#### Observations :
 
 
