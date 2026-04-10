@@ -28,6 +28,6 @@ I used the following query to make a new column of binary churn.
 ## EDA
 
 ### 01-What is the overall churn rate of the entire company?
-I used to following query to total number of customers , sum of people that left and percentage of people that left
+I used to following query to total number of customers , sum of people that left the company and percentage of people that left the company.
 **Script:** [Overall_Churn_script.sql](./eda_sql_querys/Overall_Churn.sql)
 **Table**   [Overall_Churn_table](./data/eda_tables/Overall_Churn_table.csv)
