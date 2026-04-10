@@ -60,6 +60,8 @@ I used the following query to find the average tenure and average monthly charge
 **Query :** [Contact_script.sql](./eda_sql_querys/Contract_query.sql)
 
 **Table :** [Contract_table](./data/eda_tables/Contract_table.csv).
+
+#### Observations :
 As we can see month-to-month customers left the company most.
 
 ### 05- Does the payment method affect churn?
@@ -67,7 +69,9 @@ As we can see month-to-month customers left the company most.
 **Query :** [Payment_method_query.sql](./eda_sql_querys/Payment_method_query.sql)
 
 **Table :** [Payment_mathod_table](./data/eda_tables/Payment_method_table.csv).
-As we can customer with electronic check left the company the most
+
+#### Observations :
+As we can see in the table customer with electronic check left the company the most.
 
 ### 06- Do customers with partners or dependents stay longer than those who are single?
 
