@@ -47,3 +47,10 @@ I used the following query to find the sum of revenue we lost from customers tha
 
 **Table :**   [Revenue_lost_table](./data/eda_tables/Revenue_lost_table.csv)
 Yes means the people that have left the company.As we can see the company lost 2862927.
+
+### 03 - What is the average tenure and average Monthly Charges for all customers?
+
+**Script :**
+
+**Table :**
+
