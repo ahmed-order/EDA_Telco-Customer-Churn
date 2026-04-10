@@ -118,9 +118,9 @@ Providing Tech Support and Online Security acts like glue. When customers have t
 ### 09- What is the average tenure of a churned customer?
 
 
-**Query :**
+**Query :** [tenure_churn_query.sql](./eda_sql_querys/tenure_churn_query.sql)
 
-**Table :**
+**Table :** [tenure_churn_table](./data/eda_tables/tenure_churn_table.csv)
 
 
 #### Observations :
