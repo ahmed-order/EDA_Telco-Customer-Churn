@@ -6,7 +6,7 @@ In this phase, I identified columns that required standardization. Specifically,
 ### Identifying Unique Values
 I used the following script to check the unique values in several service-related columns.
 **Script:** [Distinct_sql_script.sql](./data_cleaning/Distinct_sql_script.sql)
-Its table [Distinct_table](./data_cleaning/Distinct_values.csv)
+Its table [Distinct_table](./data/data_cleaning_table/Distinct_values.csv)
 
 
 #### Observations
@@ -15,4 +15,5 @@ The columns OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, Streami
 #### Standardizing to 'No'
 I used the following query to standardize 'No internet service' to 'No'.
 **Script:** [Conveting_sql_script.sql](./data_cleaning/Converting_sql_query.sql)
+Table after Standardizing [Conveting_table](./data/data_cleaning_table/Standardizing.csv)
 
