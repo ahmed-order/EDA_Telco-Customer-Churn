@@ -126,25 +126,6 @@ I used to the following query to see the average tenure customer spent before le
 #### Observations : A massive 53.33% churn rate. Literally half of new customers leave within the first six months and only 14% over 2 years.
 
 
-### 010- Is the MonthlyCharges significantly higher for people who churned compared to those who stayed?
-
-
-**Query :**
-
-**Table :**
-
-
-#### Observations :
-
-
-### 011 - For customers who have been here for more than 50 months, what is their preferred contract type?
-
-
-**Query :**
-
-**Table :**
-
-
 #### Observations :
 
 
