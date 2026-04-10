@@ -26,3 +26,5 @@ Table : [Binary_Churn_table](./data/data_cleaning_table/Binary_Churn_Table.csv)
 #### Data cleaning is done
 
 ## EDA
+
+### 01-What is the overall churn rate of the entire company?
