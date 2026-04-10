@@ -19,7 +19,7 @@ I used the following query to standardize 'No internet service' to 'No'.
 
 **Script:** [Converting_script.sql](./data_cleaning/Converting_sql_query.sql)
 
-**Table** after Standardizing [Conveting_table](./data/data_cleaning_table/Standardizing.csv)
+**Table** after Standardizing [Converting_table](./data/data_cleaning_table/Standardizing.csv)
 
 ### Creating a Binary Churn Column
 The Churn is currently Yes/No if we convert it binary 1 for Yes and 0 for No . It would be easy for analysis.
@@ -34,7 +34,7 @@ I used the following query to make a new column of binary churn.
 ## EDA
 
 ### 01-What is the overall churn rate of the entire company?
-I used to following query to total number of customers , sum of people that left the company and percentage of people that left the company.
+I used the following query to calculate the total number of customers , sum of people that left the company and percentage of people that left the company.
 
 **Script:** [Overall_Churn_script.sql](./eda_sql_querys/Overall_Churn.sql)
 
