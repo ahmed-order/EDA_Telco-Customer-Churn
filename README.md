@@ -20,7 +20,10 @@ I used the following query to standardize 'No internet service' to 'No'.
 ### Creating a Binary Churn Column
 The Churn is currently Yes/No if we convert it binary 1 for Yes and 0 for No . It would be easy for analysis.
 I used the following query to make a new column of binary churn.
+
+
 **Script:** [Binary_Churn_script.sql](./data_cleaning/Binary_Churn_Script.sql)
+
 **Table** : [Binary_Churn_table](./data/data_cleaning_table/Binary_Churn_Table.csv)
 
 #### Data cleaning is done
