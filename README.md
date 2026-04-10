@@ -127,3 +127,16 @@ I used to the following query to see the average tenure customer spent before le
 
 
 
+## CONCLUSION
+
+**Insight :** New customers have a 53% churn rate within the first 6 months.
+
+**Insight :** Fiber Optic users churn at 41%, largely due to a significantly higher monthly cost ($91 vs $58 for DSL).
+
+**Insight :** Month-to-month contracts are high-risk. Two-year contracts have the lowest churn.
+
+**Insight :** Customers with Tech Support and Online Security are 4x less likely to leave.
+
+**Insight :** Senior Citizens and customers without partners/dependents have higher churn rates.
+
+## THANKS FOR VISITING
