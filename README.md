@@ -23,3 +23,6 @@ I used the following query to make a new column of binary churn.
 **Script:** [Binary_Churn_sql_script.sql](./data_cleaning/Binary_Churn_Script.sql)
 Table : [Binary_Churn_table.sql](./data/data_cleaning_table/Binary_Churn_Table.csv)
 
+#### Data cleaning is done
+
+## EDA
