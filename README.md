@@ -6,8 +6,8 @@ In this phase, I identified columns that required standardization. Specifically,
 ### Identifying Unique Values
 I used the following script to check the unique values in several service-related columns.
 **Script:** [Distinct_sql_script.sql](./data_cleaning/Distinct_sql_script.sql)
+Its table (./data_cleaning/Distinct_values.csv)
 
 #### Observations
 The columns OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, and StreamingMovies all contain "No internet service". For the next step of the analysis, I will standardize these to "No" to simplify the model.
 
-[Distinct_sql_script.sql](./data_cleaning/Distinct_sql_script.sql)
