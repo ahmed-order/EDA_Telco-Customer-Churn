@@ -1,0 +1,4 @@
+InternetService,total_customers,sum_churned,percentage_chruned,monthly_charges
+DSL,2416,459,18.9983,58.09
+"Fiber optic",3096,1297,41.8928,91.5
+No,1520,113,7.4342,21.08
