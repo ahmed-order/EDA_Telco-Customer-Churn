@@ -56,6 +56,7 @@ I used the following query to find the average tenure and average monthly charge
 **Table :** [avg_tenure_charges_table](./data/eda_tables/avg_tenure_charges_table.csv)
 
 ### 04- Which contract type has the highest churn rate? (Month-to-month, 1-year, or 2-year?)
+I used the following query to see if contract type affect churn rate .
 
 **Query :** [Contact_script.sql](./eda_sql_querys/Contract_query.sql)
 
@@ -65,6 +66,7 @@ I used the following query to find the average tenure and average monthly charge
 As we can see month-to-month customers left the company most.
 
 ### 05- Does the payment method affect churn?
+I used the following query to see if payment method affect people leaving company.
 
 **Query :** [Payment_method_query.sql](./eda_sql_querys/Payment_method_query.sql)
 
@@ -74,6 +76,7 @@ As we can see month-to-month customers left the company most.
 As we can see in the table customer with electronic check left the company the most.
 
 ### 06- Do customers with partners or dependents stay longer than those who are single?
+I used the following query to see if customers with partners or dependents stay longer than those who are single.
 
 **Query :** [Payment_method_query.sql](./eda_sql_querys/Partners_dependents_query.sql)
 
@@ -83,6 +86,7 @@ As we can see in the table customer with electronic check left the company the m
 As we can see in the table that people with No Partner and No Dependents have the highest churn rate (34.23%) and People with Both a Partner and Dependents have the lowest churn rate (14.31%).
 
 ### 07- Are Senior Citizens more likely to churn than younger customers?
+I used the following query to see if senior citizens are more likely to churn than non senion citizen.
 
 **Query :** [Senior_citizen_query.sql](./eda_sql_querys/Senior_citizen_query.sql)
 
