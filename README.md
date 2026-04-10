@@ -105,3 +105,12 @@ I used the following query to see the churn rate between internet services and w
 #### Observations : 
 As we can see Fiber optic has the highest churn rate in the company because if you see table in the column montly charges fiber is expensive as Customers are paying nearly $33 more per month for Fiber, and it seems many of them decide it's not worth the high cost and leaving the company.
 
+### 09 - Do customers without Tech Support or Online Security churn more than those who have them?
+I used the following query to see if customers without Tech Support or Online Security churn more than those who have them.
+
+**Query :** [Online_security_tech_support_query.sql](./eda_sql_querys/Online_security_tech_support_query.sql)
+
+**Table :** [Online_security_tech_support_table](./data/eda_tables/Online_security_tech_support_table.csv)
+
+#### Observations :
+Providing Tech Support and Online Security acts like glue. When customers have these services, they are nearly 4 times less likely to leave than those who don't.Increasing Tech Support adoption could drastically reduce churn.
