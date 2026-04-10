@@ -94,3 +94,14 @@ I used the following query to see if senior citizens are more likely to churn th
 
 #### Observations : 
 Senior Citizens have a much higher churn rate (41.68%) compared to Non-Senior (23.65%).
+
+### 08- Compare churn rates between DSL, Fiber Optic, and No Internet.
+I used the following query to see the churn rate between internet services and why there is differnce between internet services.
+
+**Query :** [Internet_services_query.sql](./eda_sql_querys/Internet_service_query.sql)
+
+**Table :** [Internet_services_table](./data/eda_tables/Internet_service_table.csv)
+
+#### Observations : 
+As we can see Fiber optic has the highest churn rate in the company because if you see table in the column montly charges fiber is expensive as Customers are paying nearly $33 more per month for Fiber, and it seems many of them decide it's not worth the high cost and leaving the company.
+
