@@ -1,7 +1,7 @@
 # Telco Customer Churn - Exploratory Data Analysis
 
 ## Data Cleaning Phase
-In this phase, I identified columns that required standardization. Specifically, columns related to internet services contained redundant categories like "No internet service" which can be simplified.
+In this phase, I will clean the table so it should be easy to do data analysis.
 
 ### Identifying Unique Values
 I used the following script to check the unique values in several service-related columns.
@@ -9,7 +9,6 @@ I used the following script to check the unique values in several service-relate
 **Query :** [Distinct_script.sql](./data_cleaning/Distinct_sql_script.sql)
 
 **Table :** [Distinct_table](./data/data_cleaning_table/Distinct_values.csv)
-
 
 ### Observations
 The columns OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, and StreamingMovies all contain "No internet service". For the next step of the analysis, I will standardize these to "No".
