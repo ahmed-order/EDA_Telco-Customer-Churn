@@ -122,8 +122,8 @@ I used to the following query to see the average tenure customer spent before le
 **Table :** [tenure_churn_table](./data/eda_tables/tenure_churn_table.csv)
 
 
-#### Observations : A massive 53.33% churn rate. Literally half of new customers leave within the first six months and only 14% over 2 years.
-
+#### Observations :
+A massive 53.33% churn rate. Literally half of new customers leave within the first six months and only 14% over 2 years.
 
 
 ## CONCLUSION
